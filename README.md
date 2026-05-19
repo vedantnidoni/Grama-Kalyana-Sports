@@ -1,5 +1,6 @@
 Repository Owner : Vedant Ramesh  Nidoni (1OX22EC096)
-Collaborator seen due to this push issues faced in adding repository
+
+*Collaborator seen due to the push issues faced in adding repository*
 # 🏆 Grama Kalyana Sports
 
 An Android application designed to manage and organize sports activities for Grama Kalyana events. This app helps streamline event coordination, participant tracking, and match organization.
